@@ -1,22 +1,23 @@
-## Hello. Good to see you!!!👋
+# Hello. Good to see you!!!👋
 
 Hello, My name is Mariãn Michely. 👩‍💻
 Back-end student and Front-end lover. 💻
 
   I am passionate about **organization** and I value sharing information with **quality** and truthfulness. 
 
+☕️ **programador/a:** adj/sm/sf
+"organismo que transforma cafeína 
+e pizza em software." 🍕
 
-<!--
-**mariandocarmo/mariandocarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+......
 
-Here are some ideas to get you started:
+-  📍 From Rio de Janeiro
+- 👩‍💻 Back-end student
+-  🚴🏻‍♀️My hobby is cycling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Reach me out👇
+
+![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mari%C3%A3n-do-carmo-9b14b41b0/) ![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/michelylimadocarmo/)
+
+
