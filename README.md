@@ -15,9 +15,7 @@ e pizza em software." 🍕
 - 👩‍💻 Back-end student
 -  🚴🏻‍♀️My hobby is cycling
 
-
-Reach me out👇
-
-![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mari%C3%A3n-do-carmo-9b14b41b0/) ![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/michelylimadocarmo/)
-
-
+[
+![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mari%C3%A3n-do-carmo-9b14b41b0/)
+ ](https://www.linkedin.com/in/mari%C3%A3n-do-carmo-9b14b41b0/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/michelylimadocarmo/)
+](https://www.instagram.com/michelylimadocarmo/)
