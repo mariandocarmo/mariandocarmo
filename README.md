@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hello. Good to see you!!!👋
+
+Hello, My name is Mariãn Michely. 👩‍💻
+Back-end student and Front-end lover. 💻
+
+  I am passionate about **organization** and I value sharing information with **quality** and truthfulness. 
+
 
 <!--
 **mariandocarmo/mariandocarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
