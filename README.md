@@ -11,8 +11,8 @@ e pizza em software." 🍕
 
 ......
 
--  📍 From Rio de Janeiro
-- 👩‍💻 Back-end student
+-  📍 Moro no Rio de Janeiro
+- 👩‍💻  Estudante de Back-end
 -  🚴🏻‍♀️ Ciclismo é meu Hobby
 [
 ![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mari%C3%A3n-do-carmo-9b14b41b0/)
