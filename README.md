@@ -1,7 +1,7 @@
 # Olá. Que bom te ver!!!👋
 
 Olá, meu nome é Mariãn Michely. 👩‍💻
-Estudante de Back-end student e amante de Front-end. 💻
+Estudante de Back-end e amante de Front-end. 💻
 
   Sou apaixonada por ** organização ** e valorizo o compartilhamento de informações com ** qualidade ** e veracidade.
 
