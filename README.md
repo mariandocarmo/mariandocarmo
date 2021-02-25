@@ -1,9 +1,9 @@
-# Hello. Good to see you!!!👋
+# Olá. Que bom te ver!!!👋
 
-Hello, My name is Mariãn Michely. 👩‍💻
-Back-end student and Front-end lover. 💻
+Olá, meu nome é Mariãn Michely. 👩‍💻
+Estudante de Back-end student e amante de Front-end. 💻
 
-  I am passionate about **organization** and I value sharing information with **quality** and truthfulness. 
+  Sou apaixonada por ** organização ** e valorizo o compartilhamento de informações com ** qualidade ** e veracidade.
 
 ☕️ **programador/a:** adj/sm/sf
 "organismo que transforma cafeína 
