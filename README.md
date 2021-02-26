@@ -1,9 +1,9 @@
 # Olá. Que bom te ver!!!👋
 
-Meu nome é Mariãn Michely. 👩‍💻
-Sou estudante de Back-end e amante de Front-end. 💻
+### Meu nome é Mariãn Michely. 👩‍💻
+### Sou estudante de Back-end e amante de Front-end. 💻
 
-  Sou apaixonada por ** organização ** e valorizo o compartilhamento de informações com ** qualidade ** e veracidade.
+##Sou apaixonada por ** organização ** e valorizo o compartilhamento de informações com ** qualidade ** e veracidade.
 
 ☕️ **programador/a:** adj/sm/sf
 "organismo que transforma cafeína 
