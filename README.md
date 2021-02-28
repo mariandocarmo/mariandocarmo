@@ -5,9 +5,9 @@
 
 ##Sou apaixonada por ** organização ** e valorizo o compartilhamento de informações com ** qualidade ** e veracidade.
 
-☕️ **programador/a:** adj/sm/sf
-"organismo que transforma cafeína 
-e pizza em software." 🍕
+        ☕️ **programador/a:** adj/sm/sf
+        "organismo que transforma cafeína 
+        e pizza em software." 🍕
 
 ......
 
