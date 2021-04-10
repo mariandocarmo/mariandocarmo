@@ -1,6 +1,6 @@
 # Olá. Sejam bem vindos!!!👋
 
-![alt text](https://github.com/github/{mariandocarmo}/blob/assets/imagem-de-perfil.png)
+![alt text](imagem-de-perfil.png)
 
 ### Meu nome é Mariãn Michely. 👩‍💻
 ### Estudante de Back-end e amante de Front-end. 💻
