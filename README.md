@@ -1,9 +1,11 @@
-# Olá. Que bom te ver!!!👋
+# Olá. Sejam bem vindos!!!👋
+
+![alt text](https://github.com/github/{mariandocarmo}/blob/assets/imagem-de-perfil.png)
 
 ### Meu nome é Mariãn Michely. 👩‍💻
-### Sou estudante de Back-end e amante de Front-end. 💻
+### Estudante de Back-end e amante de Front-end. 💻
 
-##Sou apaixonada por ** organização ** e valorizo o compartilhamento de informações com ** qualidade ** e veracidade.
+Sou apaixonada por ***organização*** e valorizo o compartilhamento de informações com ***qualidade*** e veracidade.
 
         ☕️ **programador/a:** adj/sm/sf
         "organismo que transforma cafeína 
