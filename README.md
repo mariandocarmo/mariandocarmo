@@ -11,7 +11,7 @@ Sou apaixonada por ***organização*** e valorizo o compartilhamento de informa�
         "organismo que transforma cafeína 
         e pizza em software." 🍕
 
-| HOBBIE | COMENTÁRIO |
+| HOBBY | COMENTÁRIO |
 | ------ | ------ |
 | Aprender coisas novas + café |![alt text](https://media.giphy.com/media/PlThMUPVqbVItlTmeM/giphy.gif)|
 | Esporte |![alt text](https://media3.giphy.com/media/zhpjX82MdG240/giphy.gif)
