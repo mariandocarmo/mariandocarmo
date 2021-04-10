@@ -11,6 +11,12 @@ Sou apaixonada por ***organização*** e valorizo o compartilhamento de informa�
         "organismo que transforma cafeína 
         e pizza em software." 🍕
 
+| HOBBIE | COMENTÁRIO |
+| ------ | ------ |
+| Aprender coisas novas + café |![alt text](https://media.giphy.com/media/PlThMUPVqbVItlTmeM/giphy.gif)|
+| Esporte |![alt text](https://media3.giphy.com/media/zhpjX82MdG240/giphy.gif)
+| Linguagem preferida |![alt text](https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+
 ......
 
 -  📍 Moro no Rio de Janeiro
