@@ -19,6 +19,9 @@
   <a href="https://www.linkedin.com/in/mariandocarmo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
+![Snake animation](https://github.com/mariandocarmo/mariandocarmo/blob/output/github-contribution-grid-snake.svg)
+
+
 <div>
 
 ##
@@ -41,4 +44,3 @@ Sou apaixonada por ***organização*** e valorizo o compartilhamento de informa�
 | Esporte |![alt text](https://media3.giphy.com/media/zhpjX82MdG240/giphy.gif)
 | Linguagem preferida |![alt text](https://media1.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif)
 
-![Snake animation](https://github.com/mariandocarmo/mariandocarmo/blob/output/github-contribution-grid-snake.svg)
